@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisGame_20210224", "TennisGame_20210224\TennisGame_20210224.csproj", "{C75B8E71-DB01-4E48-8A16-C306851DA483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisGame_20210224.Tests", "TennisGame_20210224.Tests\TennisGame_20210224.Tests.csproj", "{7736A948-146E-4947-88BB-5E08F29AF3EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C75B8E71-DB01-4E48-8A16-C306851DA483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75B8E71-DB01-4E48-8A16-C306851DA483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75B8E71-DB01-4E48-8A16-C306851DA483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75B8E71-DB01-4E48-8A16-C306851DA483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7736A948-146E-4947-88BB-5E08F29AF3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7736A948-146E-4947-88BB-5E08F29AF3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7736A948-146E-4947-88BB-5E08F29AF3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7736A948-146E-4947-88BB-5E08F29AF3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
